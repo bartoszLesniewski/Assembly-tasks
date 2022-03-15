@@ -1,0 +1,4 @@
+﻿  Assembling task3.asm...
+  main.c
+C:\Users\Bartek\Desktop\Assembly\Task3\Task3\main.c(11,26): warning C4013: niezdefiniowany "malloc"; przy założeniu, że extern zwraca int
+  Task3.vcxproj -> C:\Users\Bartek\Desktop\Assembly\Task3\Debug\Task3.exe
